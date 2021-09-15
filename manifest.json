@@ -10,7 +10,7 @@
       {
           "js": ["local.js"],
           "css": ["local.css"],
-          "matches": [ "*://localhost/*", "*://127.0.0.1/*", "*://*.local/*" ],
+          "matches": [ "*://*.localhost/*", "*://127.0.0.1/*", "*://*.local/*" ],
           "run_at": "document_end"
        }
     ]
